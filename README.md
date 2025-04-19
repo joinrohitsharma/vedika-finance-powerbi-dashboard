@@ -44,16 +44,16 @@ Enhance investor reporting and RBI compliance
 
 ---
 
-## 📊 Visual Components
+##   Visual Components
 
-### 🔹 KPI Cards
+###   KPI Cards
 - Total Loans
 - Total Outstanding Amount
 - Total Customers
 - Average CIBIL Score
 - Overdue %
 
-### 🔹 Main Charts
+###   Main Charts
 - **Bar Chart:** Loan Type vs Total Loan Amount
 - **Stacked Column Chart:** EMI Status by Month/Quarter
 - **Pie Chart:** Gender Distribution
@@ -64,7 +64,7 @@ Enhance investor reporting and RBI compliance
 
 ---
 
-## 🧠 Key DAX Measures
+##   Key DAX Measures
 
 ```DAX
 Total Loan Amount = SUM('VedikaFinanceData'[Loan Amount])
