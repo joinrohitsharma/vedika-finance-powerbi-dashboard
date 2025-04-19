@@ -42,6 +42,9 @@ Optimize loan officer and branch performance
 Enhance investor reporting and RBI compliance
 
 
+![CustomerLoansData1_page-0001](https://github.com/user-attachments/assets/645d862c-b591-4976-b154-1e043055f385)
+
+
 ---
 
 ##   Visual Components
